@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background: linear-gradient( to top left, #fff, rgb(197, 232, 212)) no-repeat;
+    height: 100vh;
+    }
+    .top{
+        box-shadow: 0 0 4px rgb(33, 22, 23);
+        text-shadow: 4px 2px #07d032;
+
+
+    }
+    .form button{
+        width: 70px;
+        height: 33px;
+        border: 1px solid #b53333;
+        border-radius: 4px;
+        margin: 7px;
+    }
+    .form{
+        margin-top: 1pc;
+        box-shadow: 0 0 4px rgb(97, 14, 114);
+        border-radius: 10px;
+    }
+    .form .quiz{
+        width: 80%;
+        height: 70px;
+        box-shadow: 0 0 4px;
+        margin: auto;
+        margin-top: 7px;
+    }
